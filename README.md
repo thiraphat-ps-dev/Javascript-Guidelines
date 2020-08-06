@@ -1,6 +1,6 @@
 Welcome to the Javascript-Guidelines wiki!
 ## Javascript Guidelines สำหรับ ผู้เริ่มต้นเขียน ภาษา Javascript
-
+![banner](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/blob/master/banner.png?raw=true)
 ## สารบัญ
 1. [Variable(ตัวแปร)](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Variable)
 1. [String(สตริง)](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/String)
