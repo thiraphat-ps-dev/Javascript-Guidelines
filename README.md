@@ -9,6 +9,6 @@ Welcome to the Javascript-Guidelines wiki!
 ### เทคนิค
 
 ### Extension On Vscode
-1. [JavaScript Snippets](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/JavaScript Snippets)
+1. [JavaScript Snippets](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/JavaScript_Snippets)
 -------
 #### Created By Thiraphat.ps.dev
