@@ -1,2 +1,5 @@
-# Javascript-Guidelines
-ไกด์ไลน์ ในการเขียน Javascript สำหรับผู้เริ่มต้น
+Welcome to the Javascript-Guidelines wiki!
+## Javascript Guidelines สำหรับ ผู้เริ่มต้นเขียน ภาษา Javascript
+
+## สารบัญ
+1. [Variable(ตัวแปร)](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Variable)
