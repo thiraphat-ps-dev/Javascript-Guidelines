@@ -7,7 +7,8 @@ Welcome to the Javascript-Guidelines wiki!
 1. [Variable(ตัวแปร)](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Variable)
 1. [String(สตริง)](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/String)
 
-### เทคนิค
+### ทริค
+1. [Shorthands]
 
 ### Extension On Vscode
 1. [JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=nathanchapman.JavaScriptSnippets)
