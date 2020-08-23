@@ -10,6 +10,7 @@ Welcome to the Javascript-Guidelines wiki!
 ### ทริค
 1. [Shorthands](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Shorthands)
 1. [Arraymethods](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Arraymethods)
+1. [Debugging Tips](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Debugging-Tips)
 
 ### Extension On Vscode
 1. [JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=nathanchapman.JavaScriptSnippets)
