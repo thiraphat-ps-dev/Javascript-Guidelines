@@ -5,7 +5,21 @@ Welcome to the Javascript-Guidelines wiki!
 
 ### พื้นฐาน
 1. [Variable(ตัวแปร)](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Variable)
+1. [Operators]
+1. [Data Types]
 1. [String(สตริง)](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/String)
+1. [Number]
+1. [Boolean]
+1. [Array]
+1. [Object]
+1. [Date]
+1. [Null And Undefined]
+1. [Function]
+1. [If Condition]
+1. [Eval]
+
+### เสริม
+1. [Regular Expressions](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Regular-Expressions)
 
 ### ทริค
 1. [Shorthands](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Shorthands)
