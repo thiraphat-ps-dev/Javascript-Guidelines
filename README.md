@@ -26,6 +26,7 @@ Welcome to the Javascript-Guidelines wiki!
 1. [Arraymethods](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Arraymethods)
 1. [Debugging Tips](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Debugging-Tips)
 1. [Quick Tips](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Quick-Tips)
+1. [Array Tips](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Array-Tips)
 
 ### Extension On Vscode
 1. [JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=nathanchapman.JavaScriptSnippets)
