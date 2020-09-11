@@ -19,6 +19,7 @@ Welcome to the Javascript-Guidelines wiki!
 1. [Eval]()
 
 ### เสริม
+1. [Javascript Data Structure](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Javascript-Data-Structure)
 1. [Regular Expressions](https://github.com/thiraphat-ps-dev/Javascript-Guidelines/wiki/Regular-Expressions)
 
 ### ทริค
